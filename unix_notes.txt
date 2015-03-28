@@ -1,4 +1,3 @@
-#I was feeling a little sluggish after a heavy lunch
 
 #Hidden folder where staging area and commits live
 .git/
